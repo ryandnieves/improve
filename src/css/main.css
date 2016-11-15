@@ -101,13 +101,15 @@ ul {
 }
 #banner {
   clear: both;
-  background-image: url("../img/ibiza.jpg");
+  background-image: url("../img/internet.jpg");
   height: 404px;
   background-size: cover;
   width: 960px;
   background-repeat: no-repeat;
 }
 #banner h1 {
+  color: gold;
+  background-color: red;
   margin: 0px;
   padding: 0px;
 }
