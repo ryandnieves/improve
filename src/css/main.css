@@ -94,6 +94,25 @@ ul {
      margin: 0px;
      padding: 0px;
 }
+
+div {
+    display: block;
+}
+
+#main_content {
+    width: 545px;
+    padding-left: 24px;
+    padding-right: 24px;
+    float: left;
+    font-size: 19px;
+    line-height: 28px;
+}
+
+#sidebar {
+    width: 367px;
+    float: left;
+}
+
 #wrapper {
   width: 960px;
   margin-left: auto;
@@ -156,9 +175,10 @@ ul {
 }
 
 h1,h2, h3, h4, h5, h6 {
- font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+ font-family: Sans-Serif;
  font-size: 20px;
  color: #004467;
+ display: block;
 }
 
 h1 {
@@ -181,9 +201,10 @@ h6 {
   font-size: 100%;
 }
 p {
-font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+font-family: Serif;
  font-size: 20px;
  color: #04363F;
+ display: block;
 }
 
 
