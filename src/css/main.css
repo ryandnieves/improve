@@ -210,7 +210,12 @@ font-family: Serif;
  display: block;
 }
 
-
+ol {
+    font-family: Serif;
+    font-size: 20px;
+    color: #04363F;
+    display: block;
+}
 
 
 
